@@ -171,7 +171,6 @@
         "pinCDes4" : "នៅពេលក្រោយនៅក្នុងការកំណត់។",
         "socialTitle" : "CLIK គឺល្អប្រសើរជាមួយមិត្តភក្តិ",
         "connectSocialAcc" : "ភ្ជាប់បណ្តាញសង្គម:",
-
         "hello" : "សួស្តី,",
         "yourBalance" : "ទឹកប្រាក់របស់អ្នកគឺ",
         "menu" : "បញ្ជី",
@@ -214,13 +213,10 @@
     }
   },
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
