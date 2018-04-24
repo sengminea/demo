@@ -95,16 +95,7 @@
         "receipient": "Receipient",
         "topUpPhone": "Top Up Phone",
         "topUpPhoneSub": "Please fill your information below",
-        "invoiceNumber": "Invoice Number",
-        "charity": "Charity",
-        "message": "Message",
-        "sendSomeLove": "Donate",
-        "cardName": "Card Name",
-        "cardIssuer": "Card Issuer",
-        "nameOnCard": "Name on Card",
-        "cardNumber":"Card Number",
-        "expiryDate":"Expiry Date",
-        "cvv":"CVV"
+        "invoiceNumber": "Invoice Number"
       },
       "kh": {
         "LocalCode":"kh",
@@ -182,7 +173,7 @@
         "sendMoney2" : "លុយ",
         "requestMoney1" : "ស្នើរ",
         "requestMoney2" : "លុយ",
-        "topUpPhone1" : "បញ្ចូលលុយ",
+        "topUpPhone1" : "បញ្ចូលលុយ"
     }
   },
   "posts": [
