@@ -1,6 +1,5 @@
 { 
   "locale": {
-    
       "en": {
         "greeting" : "hello",
         "register" : "register", 
@@ -8,14 +7,12 @@
         "logout" : " Log Out"
       }
     ,
-    
       "kh": {
         "greeting" : "ហេឡូ",
         "register" : "រេជីស្ទើរ", 
         "login" : "ឡុកអ៊ីន",
         "logout" : "ឡុកអៅ"
-      }
-       
+      }       
   },
   "posts": [
     { "id": 1, "title": "Post 1" },
