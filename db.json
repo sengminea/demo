@@ -2,7 +2,7 @@
   "locale": {
       "en": {
         "LocalCode":"en",
-        "createAccount": "Create Account",
+        "Create Account": "Create Account",
         "home": "Home",
         "letGo": "Let's go!",
         "signIn": "Sign In",
@@ -15,7 +15,7 @@
         "socialConnectingTitle": "Clik is batter with friend!",
         "socialConnectingMsg": "Connect your social account:",
         "pleaseChooseAUsername": "Please choose a username",
-        "userName": "Username",
+        "Username": "Username",
         "phoneNumber": "Phone Number",
         "password": "Password",
         "confirmPassword": "Confirm Passord",
@@ -33,7 +33,7 @@
       },
       "kh": {
         "LocalCode":"kh",
-        "createAccount": "បង្កើតគណនី",
+        "Create Account": "បង្កើតគណនី",
         "home": "ផ្ទះ",
         "letGo": "តោះទៅ!",
         "signIn": "ចូល",
@@ -46,7 +46,7 @@
         "socialConnectingTitle":"Clik is batter with friend!",
         "socialConnectingMsg":"Connect your social account:",
         "pleaseChooseAUsername": "សូមជ្រើសរើសឈ្មោះគណនី",
-        "userName": "ឈ្មោះ",
+        "Username": "ឈ្មោះ",
         "phoneNumber": "លេខទូរស័ព្ទ",
         "password": "លេខសម្ងាត់",
         "confirmPassword": "បញ្ជាក់ លេខសម្ងាត់",
