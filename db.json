@@ -82,20 +82,7 @@
         "withdrawCash1": "WITHDRAW",
         "withdrawCash2": "CASH",
         "payBill1": "PAY",
-        "payBill2": "BILL",
-        "clikGive1": "CLIK",
-        "clikGive2": "GIVE",
-        "rewards": "Rewards",
-        "messages": "Messages",
-        "qrCode": "QR Code",
-        "username": "Username",
-        "amount": "Amount",
-        "note": "Note",
-        "source": "Source",
-        "receipient": "Receipient",
-        "topUpPhone": "Top Up Phone",
-        "topUpPhoneSub": "Please fill your information below",
-        "invoiceNumber": "Invoice Number"
+        "payBill2": "BILL"
       },
       "kh": {
         "LocalCode":"kh",
